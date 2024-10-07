@@ -1,4 +1,8 @@
-# 🏆 Nobel Prize Data Analysis 
+# 🏆 Nobel Prize Data Analysis  
+
+<p align="center">
+   <img src="img/Nobel_Prize.png" alt="Nobel Prize Image" style="width: 30%; height: auto;">
+</p> 
 
 The Nobel Prize is a highly regarded award, recognizing achievements in fields such as Chemistry, Literature, Physics, Medicine, Peace, and Economic Sciences. Established by Alfred Nobel’s vision in 1895, the prize honors individuals and organizations that have contributed to the betterment of society. 🌍✨
 
